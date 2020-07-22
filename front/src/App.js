@@ -18,8 +18,6 @@ function App() {
         <Route exact path='/projects' component={ProjectsList} />
         {/* <Route exact path='/project/:id' component={Project} /> */}
       </Switch>
-
-      <p>coucou</p>
     </div>
   );
 }

@@ -1,0 +1,11 @@
+.form {
+    display: flex;
+    flex-flow: column nowrap;
+    width: 60%;
+    margin: auto;
+}
+
+fieldset {
+    width: 30%;
+    margin: auto;
+}
