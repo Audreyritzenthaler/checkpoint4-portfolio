@@ -1,6 +1,6 @@
-const home = require('./home')
 const project = require('./project')
+const allProjects = require('./allProjects')
 
 module.exports = {
-    home, project
+    project, allProjects
 }
